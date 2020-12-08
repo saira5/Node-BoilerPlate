@@ -42,7 +42,7 @@
     "express-session": "^1.15.4",
     "express-useragent": "^1.0.7",
     "express-validator": "^2.21.0",
-    "fast-csv": "^4.3.1",
+    "fast-csv": "^4.3.6",
     "fs": "0.0.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
